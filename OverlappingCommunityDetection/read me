@@ -7,3 +7,5 @@ Generate seed nodes from the network, using 1 of the following
 Extract attached file, and run "seed_expansion.py" file. It has two command line arguments, 
 1) graph file name, in which graph is written in edge list format and 
 2) seed file name, with each seed node (or seed set separated by spaces) per line.
+
+Networkx 2.x is required to run this code
