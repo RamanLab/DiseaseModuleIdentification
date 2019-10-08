@@ -1,0 +1,9 @@
+Generate seed nodes from the network, using 1 of the following
+1> Hits seed node using select_hits_seeds.py 
+2> SpreadHUb seed nodes using select_sphub_seeds.py
+3> or Disease Seed Nodes can be used as mentioned in the paper
+
+
+Extract attached file, and run "seed_expansion.py" file. It has two command line arguments, 
+1) graph file name, in which graph is written in edge list format and 
+2) seed file name, with each seed node (or seed set separated by spaces) per line.
