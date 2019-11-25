@@ -11,6 +11,7 @@ Authors
 -   [Srini Parthasarathy](https://cse.osu.edu/people/parthasarathy.2)
 -   [Himanshu Sinha](https://home.iitm.ac.in/sinha/)
 -   [Karthik Raman](https://github.com/karthikraman)
+-   [Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/)
 
 
 ### Acknowledgements
